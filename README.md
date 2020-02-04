@@ -1,4 +1,4 @@
-![screenshot of working app](/public/assets/
+![screenshot of working app](public/assets/img/Screen Shot 2020-02-04 at 9.08.10 AM)
 
 Node Express Handlebars
 
