@@ -1,3 +1,5 @@
+![screenshot of working app](/public/assets/
+
 Node Express Handlebars
 
 Overview
